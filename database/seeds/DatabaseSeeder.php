@@ -13,6 +13,6 @@ class DatabaseSeeder extends Seeder
     {
         // $this->call(UsersTableSeeder::class);
         //下記コマンドを記述2/5
-         $this->call(PostsTableSeeder::class);
+         $this->call(UsersTableSeeder::class);
     }
 }
